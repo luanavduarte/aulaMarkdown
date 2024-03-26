@@ -55,17 +55,24 @@ O que são requisitos não funcionais?
 ![engenharia](https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png)
 
 
-UC1     |    UC2
------   |  -------
+UC1     |    UC2   
+-----   |  ------
+exemplo |   exemplo 
+exemplo |   exemplo
+exemplo |   exeplo
         |
         |
         |
-        |
-        |
+
+***explicção*** 
+cada uc irá ficar um requisito do seu projeto no formato acima
+
+        
 
 
 
 <https://dhg1h5j42swfq.cloudfront.net/2023/10/16115710/imagem-inicial-1.png>
+
 
 
 
